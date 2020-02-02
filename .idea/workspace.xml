@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2408c50-2982-429e-99ba-2c034995f870" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/features/Customercansearchmo.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/features/CustomerCanSearchForPropertyForSale.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/features/CustomerCanSearchForPropertyForSale.feature" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +16,13 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,18 +39,6 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Scenario: Customer can search for any property" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -81,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580062299285</updated>
     </task>
+    <task id="LOCAL-00001" summary="c0mmit something">
+      <created>1580666113323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580666113323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +98,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="c0mmit something" />
+    <option name="LAST_COMMIT_MESSAGE" value="c0mmit something" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="122" key="CommitChangelistDialog2" timestamp="1580666112788">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="122" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1580666112788" />
+    <state x="747" y="241" key="VCS.ChangeListViewerDialog" timestamp="1580666124327">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="747" y="241" key="VCS.ChangeListViewerDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580666124327" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580666311357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1580666311357" />
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580666140966">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1580666140966" />
+    <state x="623" y="341" key="git4idea.ui.GitUnstashDialog" timestamp="1580666133082">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="341" key="git4idea.ui.GitUnstashDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580666133082" />
   </component>
 </project>
